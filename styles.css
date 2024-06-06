@@ -12,7 +12,7 @@ body {
 
 header {
   font-family: 'Harry P';
-  src: url(..\harryp.TTF);
+  src: url(harryp.TTF);
   background-color: #111010;
   color: #fff;
   text-align: center;

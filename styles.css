@@ -20,13 +20,13 @@ header {
 }
 
 header h1 {
-  font-size: 36px; /* Aumentar o tamanho da fonte */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adicionar uma sombra sutil */
-  transition: transform 0.3s ease; /* Adicionar uma transição suave */
+  font-size: 36px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease;
 }
 
 header h1:hover {
-  transform: scale(1.1); /* Aumentar ligeiramente o tamanho ao passar o mouse */
+  transform: scale(1.1);
 }
 
 
@@ -123,4 +123,10 @@ img {
 .texto .botoes button.overlay {
   background: white;
   color: black;
+}
+
+.card-body{
+  background-color: #333;
+  color: white;
+  border: 1px solid #333;
 }
